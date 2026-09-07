@@ -1,16 +1,10 @@
-
 package inputdialoguetest;
 
 import javax.swing.*;
 
 public class InputDialogueTest {
 
-   
     public static void main(String[] args) {
-        
-       //String  name;
-        //name = JOptionPane.showInputDialog("Enter your name");
-        //JOptionPane.showMessageDialog(null," hello "+name);
         
         String num1,num2; 
         
@@ -26,10 +20,6 @@ public class InputDialogueTest {
          
          JOptionPane.showMessageDialog(null,sum);
      
-        
-        
-        
-        
     }
     
 }
